@@ -19,6 +19,8 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 ``` python
+#Developed by: SASIRAJKUMAR T J
+#REGISTER No: 22005240
 num=0
 with open('text2.txt','r') as f1:
     for i in f1:
